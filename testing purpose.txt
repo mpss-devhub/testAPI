@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hello 2 by 1357
-=======
-hello
->>>>>>> origin/master
